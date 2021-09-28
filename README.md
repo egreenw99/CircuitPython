@@ -132,19 +132,6 @@ while True:
     except RuntimeError:
         print("Retrying!")
 
-### Evidence
-
-### wiring
-
-### Reflection
-
-## CircuitPython_LCD
-
-### Description & Code
-
-```python
-Code goes here
-
 ```
 
 ### Evidence
