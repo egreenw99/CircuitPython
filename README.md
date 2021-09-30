@@ -175,7 +175,7 @@ while True:
 
     if remaining <= 0:
         print("Interrupts:", str(counter))
-        print("I've been interrupted:", str(counter2))
+        print("I've been interrupted:", str(counter2), "time")
         max = time.time() + 4
         counter = 0
 ```
