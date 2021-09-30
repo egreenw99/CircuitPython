@@ -158,7 +158,7 @@ interrupter.direction = Direction.INPUT
 interrupter.pull = Pull.UP
 
 counter = 0
-
+counter2 = 0
 photo = False
 state = False
 
@@ -168,12 +168,14 @@ while True:
     photo = interrupter.value
     if photo and not state:
             counter += 1
+            counter2 += 1
     state = photo
 
     remaining = max - time.time()
 
     if remaining <= 0:
         print("Interrupts:", str(counter))
+        print("I've been interrupted:", str(counter2))
         max = time.time() + 4
         counter = 0
 ```
