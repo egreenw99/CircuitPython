@@ -185,3 +185,17 @@ while True:
 ### wiring
 
 ### Reflection
+
+## CircuitPython LCD
+
+### Description & Code
+
+```python
+
+```
+
+### Evidence
+
+### wiring
+
+### Reflection
