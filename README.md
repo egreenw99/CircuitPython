@@ -10,7 +10,6 @@
 
 ## Hello_CircuitPython
 
-.
 
 ### Description & Code
 Description goes here
@@ -139,7 +138,7 @@ while True:
 ### wiring
 
 ### Reflection
-
+This assignment wasn't all that difficult. I've worked with ultrasonic sensors before so this wasn't all that terrible for me 
 
 
 
@@ -223,7 +222,6 @@ while True:
         variable = variable * -1
 
 ```
-
 ### Evidence
 
 ### wiring
