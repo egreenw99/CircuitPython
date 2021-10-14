@@ -94,7 +94,7 @@ while True:
  ## CircuitPython_Distance 
 
 ### Description & Code
-
+When an object moves away from the ultrasonic sensor the LED on the MetroBoard will change colors
 ```python
 import simpleio
 import time
@@ -147,7 +147,7 @@ while True:
 ## Photointerrupters
 
 ### Description & Code
-
+The number of times the photointerrupter is interrupted is recorded on the computer 
 ```python
 from digitalio import DigitalInOut, Direction, Pull
 import time
@@ -185,11 +185,11 @@ while True:
 ### wiring
 
 ### Reflection
-
+Wiring the interrupter wasn't all that hard but once again the coding part was forign to me so I used someone else's code.
 ## CircuitPython LCD
 
 ### Description & Code
-
+When you touch the wire once on the LCD the number of times you touched it will increase, and when you touch the wire again the number on the LCD will decrease.
 ```python
 import time
 import touchio
@@ -229,3 +229,4 @@ while True:
 ### wiring
 
 ### Reflection
+This project was a combination of LCD and capacitive touch. the Importaion of the capacitive touch wasn't so bad, but coding required some assistance.
