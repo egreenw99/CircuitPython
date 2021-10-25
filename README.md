@@ -84,10 +84,9 @@ while True:
 ```
 
 ### Evidence
-![Screenshot (1)](https://user-images.githubusercontent.com/71407132/138334120-be0b6cbc-bb74-4d78-8d22-67e864d7fb85.png)
 
 ### wiring
- 
+ ![Screenshot (1)](https://user-images.githubusercontent.com/71407132/138334120-be0b6cbc-bb74-4d78-8d22-67e864d7fb85.png)
 ### Reflection 
  I was able to get the servo turning with compasitive touch after help from peers. I had some equipment malfunctions and wiring issues so next time I will double check my equipment and learn to code a little bit so im not so reliant on having other poeple code for me 
  
@@ -135,9 +134,9 @@ while True:
 ```
 
 ### Evidence
-![Screenshot 2021-10-21 2 33 39 PM](https://user-images.githubusercontent.com/71407132/138336689-f52e0257-54ee-485f-9728-e8adc6772e6d.png)
 
 ### wiring
+![Screenshot 2021-10-21 2 33 39 PM](https://user-images.githubusercontent.com/71407132/138336689-f52e0257-54ee-485f-9728-e8adc6772e6d.png)
 
 ### Reflection
 This assignment wasn't all that difficult. I've worked with ultrasonic sensors before so this wasn't all that terrible for me 
@@ -184,7 +183,7 @@ while True:
 ### Evidence
 
 ### wiring
-
+![Screenshot (1)](https://user-images.githubusercontent.com/71407132/138707412-8d07f201-daf4-46da-8a6a-ec9a31b6c923.png)
 ### Reflection
 Wiring the interrupter wasn't all that hard but once again the coding part was forign to me so I used someone else's code.
 ## CircuitPython LCD
