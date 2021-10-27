@@ -73,7 +73,7 @@ my_servo = servo.Servo(pwm)
 touch_A1 = touchio.TouchIn(board.A1)
 touch_A2 = touchio.TouchIn(board.A2)
 
-while True:
+while True: 
     if touch_A1.value:
         print("Touch A1!")
     my_servo.angle = 90
@@ -175,7 +175,7 @@ while True:
 
     if remaining <= 0:
         print("Interrupts:", str(counter))
-        print("I've been interrupted:", str(counter2), "time")
+        print("I've been interrupted:", str(counter2), "time")  # This will inform you on the computer that the total amount of times photo-interrupter was interrupted.
         max = time.time() + 4
         counter = 0
 ```
